@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Rainbow Season';
+    src: url('../assets/') format('woff2'),
+        url('../assets/') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.my-heading{
+    color:coral;
+    border: 2px solid green;
+    font-size: 50px;
+    font-style: italic;
+    font-display: inherit;
+    font-weight: 100;
+    background-color: antiquewhite;
+}
+/* body{
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+
+} */
+h1,h2,h3,h4{
+    font-family: 'Rainbow Season', cursive;
+
+}
+.table,tr,td {
+    background-color:burlywood;
+    
+    
+}
+
